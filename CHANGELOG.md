@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/uclmbv/header/compare/v1.0.0...v1.0.1) (2024-07-25)
+
+### Refactor
+
+* update dtls ([55870b6](https://github.com/uclmbv/header/commit/55870b659eba3e6e59ea030bc625f18ea476d642))
+
 ## 1.0.0 (2024-07-25)
 
 ### Features
