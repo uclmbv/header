@@ -51,6 +51,6 @@
   },
   "dependencies": {
     "@codexteam/icons": "^0.3.2",
-    "@uclmbv/dtls": "^1.0.1"
+    "@uclmbv/dtls": "^1.0.4"
   }
 }
